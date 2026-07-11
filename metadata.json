@@ -1,0 +1,6 @@
+{
+  "name": "Best Computer Center",
+  "description": "A full-stack website for Best Computer Center, Vallabh Vidyanagar, featuring course details, service inquiries, student certificate verification, and an administrative control panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

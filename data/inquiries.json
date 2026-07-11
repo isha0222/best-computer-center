@@ -1,0 +1,20 @@
+[
+  {
+    "id": "inq-1",
+    "name": "Arpit Varma",
+    "phone": "9876543210",
+    "email": "arpit@gmail.com",
+    "course": "Python Django",
+    "createdAt": "2026-07-08T10:30:00.000Z",
+    "status": "New"
+  },
+  {
+    "id": "inq-2",
+    "name": "Krupa Patel",
+    "phone": "9988776655",
+    "email": "krupa.patel@yahoo.com",
+    "course": "Tally with Accounting",
+    "createdAt": "2026-07-08T14:45:00.000Z",
+    "status": "Contacted"
+  }
+]

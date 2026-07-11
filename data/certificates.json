@@ -1,0 +1,42 @@
+[
+  {
+    "id": "cert-1",
+    "rollNo": "1001",
+    "name": "Riya Patel",
+    "course": "Tally with GST",
+    "duration": "3 Months",
+    "status": "Completed & Issued"
+  },
+  {
+    "id": "cert-2",
+    "rollNo": "1002",
+    "name": "Jay Shah",
+    "course": "Web Development",
+    "duration": "3 Months",
+    "status": "Completed & Issued"
+  },
+  {
+    "id": "cert-3",
+    "rollNo": "1003",
+    "name": "Rahul Patel",
+    "course": "CCC",
+    "duration": "2 Months",
+    "status": "Completed & Issued"
+  },
+  {
+    "id": "cert-4",
+    "rollNo": "1004",
+    "name": "Priya Shah",
+    "course": "Python Django",
+    "duration": "3 Months",
+    "status": "Completed & Issued"
+  },
+  {
+    "id": "cert-5",
+    "rollNo": "1005",
+    "name": "Meet Joshi",
+    "course": "C Programming",
+    "duration": "2 Months",
+    "status": "In Progress"
+  }
+]
