@@ -573,7 +573,7 @@ export const TEAM = [
   {
     name: "Mukesh Shah",
     role: "CEO & Founder",
-    image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=300&auto=format&fit=crop"
+    image: "/team/t1.png"
   },
   {
     name: "Kavita Shah",
