@@ -1,9 +1,4 @@
 import { CourseDetail, ServiceDetail } from "./types";
-import t1 from "./assets/team/t1.png";
-import t2 from "./assets/team/t2.png";
-import t3 from "./assets/team/t3.png";
-import t4 from "./assets/team/t4.png";
-import t5 from "./assets/team/t5.png";
 
 export const COURSES: CourseDetail[] = [
   {
@@ -578,7 +573,7 @@ export const TEAM = [
   {
     name: "Mukesh Shah",
     role: "CEO & Founder",
-    image: "/team/t1.png"
+    image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=300&auto=format&fit=crop" 
   },
   {
     name: "Kavita Shah",
