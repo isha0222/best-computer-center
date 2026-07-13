@@ -2,8 +2,10 @@ import express from "express";
 import path from "path";
 import fs from "fs/promises";
 import { createServer as createViteServer } from "vite";
+import cors from "cors";
 
-const PORT = 3000;
+// const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 // Helper to safely read JSON files
 async function readJsonFile<T>(filePath: string, defaultData: T): Promise<T> {
@@ -38,7 +40,11 @@ async function writeJsonFile<T>(filePath: string, data: T): Promise<boolean> {
 }
 
 async function startServer() {
+  // const app = express();
   const app = express();
+
+app.use(cors());
+app.use(express.json());
   
   // Parse incoming JSON payloads
   app.use(express.json());
