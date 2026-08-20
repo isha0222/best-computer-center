@@ -46,9 +46,9 @@ export default function Header({ currentTab, setCurrentTab }: HeaderProps) {
   className="flex items-center gap-3 cursor-pointer"
   onClick={() => handleNavClick("home")} >
   <img
-    src="/team/logo.jpg"
-    alt="Best Computer Center"
-    className="h-14 w-auto object-contain" />
+  src={logo}
+  alt="Best Computer Center"
+  className="h-14 w-auto object-contain" />
 </div>
 </div>
 
