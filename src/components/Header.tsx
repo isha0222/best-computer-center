@@ -27,7 +27,7 @@ export default function Header({ currentTab, setCurrentTab }: HeaderProps) {
   return (
     <header className="w-full bg-white shadow-sm sticky top-0 z-50">
       {/* Top Bar */}
-      <div className="max-w-7xl mx-auto px-4 py-2 flex flex-col sm:flex-row justify-between items-center border-b border-gray-100 gap-2">
+      {/* <div className="max-w-7xl mx-auto px-4 py-2 flex flex-col sm:flex-row justify-between items-center border-b border-gray-100 gap-2">
         <div className="flex items-center gap-3 cursor-pointer" onClick={() => handleNavClick("home")}>
           <div className="w-10 h-10 rounded-lg bg-blue-600 flex items-center justify-center text-white font-extrabold text-lg shadow-sm border border-blue-500/20">
             B
@@ -38,7 +38,21 @@ export default function Header({ currentTab, setCurrentTab }: HeaderProps) {
             </h1>
             <p className="text-xs text-slate-500 font-semibold tracking-wider">VALLABH VIDYANAGAR</p>
           </div>
-        </div>
+        </div> */}
+      <div
+  className="max-w-7xl mx-auto px-4 py-2 flex flex-col sm:flex-row justify-between items-center border-b border-gray-100 gap-2"
+>
+  <div
+    className="flex items-center gap-3 cursor-pointer"
+    onClick={() => handleNavClick("home")}
+  >
+    <img
+      src="/team/logo.jpg"
+      alt="Best Computer Center"
+      className="h-14 w-auto object-contain"
+    />
+  </div>
+</div>
 
         <div className="flex flex-wrap justify-center gap-4 text-sm text-gray-700 font-medium">
           <a href="tel:+919979978326" className="flex items-center gap-1.5 hover:text-blue-600 transition">
