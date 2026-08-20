@@ -326,9 +326,9 @@ export default function AdminView() {
             </button>
           </form>
 
-          <p className="text-[10px] text-gray-400 text-center italic">
+          {/* <p className="text-[10px] text-gray-400 text-center italic">
             Hint: Default development credentials are <span className="font-bold">admin</span> / <span className="font-bold">admin123</span>
-          </p>
+          </p> */}
         </div>
       </div>
     );
