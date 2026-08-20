@@ -136,7 +136,7 @@ export default function AboutView({ setCurrentTab }: AboutViewProps) {
       </section>
 
       {/* 5. Meet Our Experts (Team) */}
-      <section className="py-16 px-4 bg-white">
+      {/* <section className="py-16 px-4 bg-white">
         <div className="max-w-7xl mx-auto text-center space-y-12">
           <div className="space-y-3">
             <h2 className="text-3xl font-bold text-gray-900">Meet Our Experts</h2>
@@ -162,7 +162,7 @@ export default function AboutView({ setCurrentTab }: AboutViewProps) {
             ))}
           </div>
         </div>
-      </section>
+      </section> */}
 
       {/* 6. Extensive Testimonials Grid */}
       <section className="bg-slate-50 py-16 px-4">
