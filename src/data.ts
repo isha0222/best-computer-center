@@ -457,7 +457,7 @@ export const COURSES: CourseDetail[] = [
     title: "Illustrator",
     duration: "2 Months",
     fees: "₹6,000",
-  image: "https://images.unsplash.com/photo-1561070791-26c113006238?q=80&w=600&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1618005198919-d3d4b5a92ead?q=80&w=600&auto=format&fit=crop",
     description: "Create high-quality vector designs and illustrations. Industry-standard tool for creative professionals.",
     content: [
       "Introduction to Adobe Illustrator Workspace & Vector graphics",
