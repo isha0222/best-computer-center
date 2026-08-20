@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Menu, X, Phone, Mail, GraduationCap } from "lucide-react";
-import logo from "../../team/logo.jpg";
+import logo from "../team/logo.jpg";
 interface HeaderProps {
   currentTab: string;
   setCurrentTab: (tab: string) => void;
