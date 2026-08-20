@@ -6,7 +6,7 @@ export const COURSES: CourseDetail[] = [
     title: "CCC",
     duration: "2 Months",
     fees: "₹5,000",
-    image: "https://images.unsplash.com/photo-1547082299-de196ea013d6?q=80&w=600&auto=format&fit=crop",
+   image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=600&auto=format&fit=crop",
     description: "Basic computer course to improve digital literacy and everyday computer skills.",
     content: [
       "Computer Basics & Hardware Concepts",
@@ -384,7 +384,7 @@ export const COURSES: CourseDetail[] = [
     title: "VB.Net",
     duration: "2 Months",
     fees: "₹12,000",
-    image: "https://images.unsplash.com/photo-1542744094-3a31f103e35f?q=80&w=600&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=600&auto=format&fit=crop",
     description: "Learn VB.NET to develop powerful Windows desktop applications with ease.",
     content: [
       "Introduction to .NET Framework and Common Language Runtime (CLR)",
@@ -402,7 +402,7 @@ export const COURSES: CourseDetail[] = [
     title: "PHP Development",
     duration: "1.5 Months",
     fees: "₹11,000",
-    image: "https://images.unsplash.com/photo-1599507593499-a3f7f7d9a2cc?q=80&w=600&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=600&auto=format&fit=crop",
     description: "Create dynamic and interactive websites using PHP. Essential for backend web development.",
     content: [
       "Introduction to Server-side Scripting & PHP environment",
@@ -457,7 +457,7 @@ export const COURSES: CourseDetail[] = [
     title: "Illustrator",
     duration: "2 Months",
     fees: "₹6,000",
-    image: "https://images.unsplash.com/photo-1618005198143-e5283b519a7f?q=80&w=600&auto=format&fit=crop",
+   image: "https://images.unsplash.com/photo-1561070791-26c113006238?q=80&w=600&auto=format&fit=crop",
     description: "Create high-quality vector designs and illustrations. Industry-standard tool for creative professionals.",
     content: [
       "Introduction to Adobe Illustrator Workspace & Vector graphics",
@@ -476,7 +476,7 @@ export const COURSES: CourseDetail[] = [
     title: "UI-UX Design",
     duration: "2 Months",
     fees: "₹15,000",
-    image: "https://images.unsplash.com/photo-1541462608141-2ff01dd914c0?q=80&w=600&auto=format&fit=crop",
+   image: "https://images.unsplash.com/photo-1558655146-9f40138edfeb?q=80&w=600&auto=format&fit=crop",
     description: "Design modern, user-friendly interfaces and experiences. Improve usability and customer satisfaction.",
     content: [
       "Introduction to User Experience (UX) and User Interfaces (UI)",
