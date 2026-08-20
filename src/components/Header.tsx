@@ -42,16 +42,14 @@ export default function Header({ currentTab, setCurrentTab }: HeaderProps) {
       <div
   className="max-w-7xl mx-auto px-4 py-2 flex flex-col sm:flex-row justify-between items-center border-b border-gray-100 gap-2"
 >
-  <div
-    className="flex items-center gap-3 cursor-pointer"
-    onClick={() => handleNavClick("home")}
-  >
-    <img
-      src="/team/logo.jpg"
-      alt="Best Computer Center"
-      className="h-14 w-auto object-contain"
-    />
-  </div>
+ <div
+  className="flex items-center gap-3 cursor-pointer"
+  onClick={() => handleNavClick("home")} >
+  <img
+    src="/team/logo.jpg"
+    alt="Best Computer Center"
+    className="h-14 w-auto object-contain" />
+</div>
 </div>
 
         <div className="flex flex-wrap justify-center gap-4 text-sm text-gray-700 font-medium">
