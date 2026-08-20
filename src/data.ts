@@ -24,7 +24,7 @@ export const COURSES: CourseDetail[] = [
     title: "Artificial Intelligence",
     duration: "2 Months",
     fees: "₹10,000",
-    image: "https://images.unsplash.com/photo-1677442136019-21780efad99a?q=80&w=600&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=600&auto=format&fit=crop",
     description: "Learn AI and Machine Learning basics with real-world applications to build smart systems.",
     content: [
       "AI Introduction: What is AI?, Real life AI examples, Types of AI, Future of AI, Safe & Responsible AI",
@@ -439,7 +439,7 @@ export const COURSES: CourseDetail[] = [
     title: "CorelDraw",
     duration: "2 Months",
     fees: "₹6,000",
-    image: "https://images.unsplash.com/photo-1561070791-26c113006238?q=80&w=600&auto=format&fit=crop",
+   image: "https://images.unsplash.com/photo-1626785774573-4b799315345d?q=80&w=600&auto=format&fit=crop",
     description: "Design vector graphics, logos, and print materials. Professional tool for graphic designers.",
     content: [
       "Introduction to CorelDraw Workspace & Vector graphics",
@@ -457,7 +457,7 @@ export const COURSES: CourseDetail[] = [
     title: "Illustrator",
     duration: "2 Months",
     fees: "₹6,000",
-   image: "https://images.unsplash.com/photo-1561070791-26c113006238?q=80&w=600&auto=format&fit=crop",
+  image: "https://images.unsplash.com/photo-1561070791-26c113006238?q=80&w=600&auto=format&fit=crop",
     description: "Create high-quality vector designs and illustrations. Industry-standard tool for creative professionals.",
     content: [
       "Introduction to Adobe Illustrator Workspace & Vector graphics",
