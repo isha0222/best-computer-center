@@ -39,11 +39,11 @@ export default function Header({
           className="flex items-center cursor-pointer"
           onClick={() => handleNavClick("home")}
         >
-          <img
-            src={logo}
-            alt="Best Computer Center"
-            className="h-16 sm:h-20 w-auto object-contain"
-          />
+    <img
+  src={logo}
+  alt="Best Computer Center"
+  className="h-16 sm:h-20 w-auto object-contain"
+/>
         </div>
 
         {/* CONTACT DETAILS */}
