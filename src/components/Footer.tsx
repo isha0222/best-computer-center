@@ -24,7 +24,7 @@ export default function Footer({ setCurrentTab }: FooterProps) {
               className="text-xs text-slate-500 hover:text-blue-400 flex items-center gap-1 transition cursor-pointer"
             >
               <ShieldAlert className="w-3.5 h-3.5" />
-              <span>Administrative Portal</span>
+              {/* <span>Administrative Portal</span> */}
             </button>
           </div>
         </div>
